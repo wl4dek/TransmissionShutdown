@@ -13,10 +13,12 @@ Clone this project.
 ```
 
 Go to settings
-!!
+
+![settings](https://cloud.githubusercontent.com/assets/3700358/18411798/c14091bc-7755-11e6-894a-004bc32123dc.jpg)
 
 In downloading mark the field call script `When torrent is completed` and select the file transmissionShutdown.sh who made the clone.
-!!
+
+![download](https://cloud.githubusercontent.com/assets/3700358/18411801/d906f7c8-7755-11e6-9945-2ceb12ec7786.jpg)
 
 
 >Attention
